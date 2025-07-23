@@ -15,3 +15,4 @@ public class EvenOdd {
 		sc.close();
 	}
 }
+
