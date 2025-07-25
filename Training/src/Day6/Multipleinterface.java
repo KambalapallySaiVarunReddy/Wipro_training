@@ -29,3 +29,4 @@ public class Multipleinterface {
 		System.out.println(ts.a);
 	}
 }
+
